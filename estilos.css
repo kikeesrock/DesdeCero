@@ -1,0 +1,30 @@
+/* por etiquetas */
+h1 {
+    color: blueviolet;
+
+}
+/* por clase */
+.btn {
+    background-color: transparent;
+    border: 1px solid black;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
+.btn-fresa {
+    background-color: red;
+}
+
+.btn-chocolate {
+    background-color: rgb(85, 37, 3);
+}
+
+.btn-vainilla {
+    background-color: yellow;
+}
+/* por id */
+#titulo3{
+    font-size: 6rem;
+    text-decoration: underline;
+    font-family: 'Pacifico', cursive;
+}
